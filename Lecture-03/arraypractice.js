@@ -21,7 +21,6 @@ console.log("\n******* For each item in this array console.log the letters in ea
 
 let furniture = ['Table', 'Chairs', 'Couch'];
 
-
 for(let i = 0 ; i < furniture.length ; i++){
 
     for(let char of furniture[i]){
