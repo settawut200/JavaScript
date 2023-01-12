@@ -9,11 +9,11 @@ function sayHello(){
 }
 
 function cube(x){
-return X*X*X;
+  return X*X*X;
 }
 
 const add =(a,b) => a+b;
 
- const status = true;
+const status = true;
 
 module.exports = {person, sayHello, cube, add, status}
